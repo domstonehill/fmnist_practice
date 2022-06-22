@@ -14,4 +14,4 @@ data
 
 DATA_DIR = '~/data'
 '''
-DATA_DIR = '/home/bigdata/NFSDatasets/fasion-mnist/csv_files'
+DATA_DIR = ''
